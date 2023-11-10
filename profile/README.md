@@ -1,12 +1,5 @@
-## Hi there 👋
+# JEE Ya Dawla 👩‍💻
+At JEE, we go beyond being just a team; we're a family. We understand the value of having a supportive community that feels like home, and that's exactly what we strive to create. Whether you're a seasoned developer or just starting your journey in the tech world, there's a place for you here.
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
